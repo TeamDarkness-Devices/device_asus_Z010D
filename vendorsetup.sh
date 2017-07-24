@@ -1,0 +1,1 @@
+add_lunch_combo aos_Z010D-userdebug
